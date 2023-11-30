@@ -1,7 +1,6 @@
 # Voyago - Travel Website
 
 ## Demo
-
 https://itachi1503.github.io/Voyago/
 
 
