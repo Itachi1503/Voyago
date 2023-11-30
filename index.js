@@ -1,24 +1,3 @@
-// const slideContainer = document.getElementById("slide-container");
-// const cardContainer = document.getElementsByClassName("card-container");
-// const cardWidth = document.querySelector(".card-container").offsetWidth;
-// let currentIndex = 0;
-
-// const next = ()=> {
-//     // slideContainer.append(cardContainer[0])
-//     if (currentIndex < cardContainer.children.length - 1) {
-//         currentIndex++;
-//         slideContainer.style.transform = `translateX(-${currentIndex * cardWidth}px)`;
-//     }
-// }
-
-// const prev = ()=> {
-//     // slideContainer.prepend()
-//     if (currentIndex > 0) {
-//         currentIndex--;
-//         slideContainer.style.transform = `translateX(-${currentIndex * cardWidth}px)`;
-//     }
-// } 
-
 
 const slideContainer = document.getElementById("slide-container");
 const cardContainer = document.querySelector(".slides-container");
@@ -59,7 +38,7 @@ const prev = () => {
     }
 }
 
-// Initial button state
+
 updateButtons();
 
 
