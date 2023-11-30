@@ -1,5 +1,8 @@
 # Voyago - Travel Website
 
+## Demo
+
+![Voyago Demo](https://itachi1503.github.io/Voyago/)
 
 
 Voyago is a travel website that allows users to explore popular travel destinations and plan their vacations. The project was completed as part of the Nexus Internship Program.
